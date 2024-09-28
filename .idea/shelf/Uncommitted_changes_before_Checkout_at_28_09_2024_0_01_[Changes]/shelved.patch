@@ -1,0 +1,16 @@
+Index: thisfilemaster2only.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>этот тхт виден только в ветке  master2\r\n\r\n123\r\n123
+===================================================================
+diff --git a/thisfilemaster2only.txt b/thisfilemaster2only.txt
+--- a/thisfilemaster2only.txt	(revision ebb53c3d80d269439cbf569bcf07043bc9ebe767)
++++ b/thisfilemaster2only.txt	(date 1727463592046)
+@@ -1,4 +1,1 @@
+-этот тхт виден только в ветке  master2
+-
+-123
+-123
+\ No newline at end of file
++этот тхт виден только в ветке  master2
+\ No newline at end of file

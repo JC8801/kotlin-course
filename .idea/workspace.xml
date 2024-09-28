@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="463072db-fe6c-4125-b82d-d70e46ff444d" name="Changes" comment="изменение 2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-course" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JC8801&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JC8801/kotlin-course.git&quot;,
+    &quot;accountId&quot;: &quot;37a18cb4-be33-4b4e-8640-5b6b15a0453b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2mQb6u4aH8HJMCT6Y8rcjnlgMKR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Dell/IdeaProjects/kotlin-course/src/main/kotlin/Main.kt",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="463072db-fe6c-4125-b82d-d70e46ff444d" name="Changes" comment="" />
+      <created>1727011589000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727011589000</updated>
+      <workItem from="1727011589823" duration="8516000" />
+      <workItem from="1727284103124" duration="1880000" />
+      <workItem from="1727367682502" duration="6084000" />
+      <workItem from="1727460255352" duration="1864000" />
+      <workItem from="1727551289530" duration="5168000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit я создал коммит и наблюдаю">
+      <option name="closed" value="true" />
+      <created>1727020139769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727020139769</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit я создал коммит и наблюдаю">
+      <option name="closed" value="true" />
+      <created>1727021602418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727021602418</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit я создал коммит и наблюдаю">
+      <option name="closed" value="true" />
+      <created>1727021747149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727021747149</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit я создал коммит и наблюдаю">
+      <option name="closed" value="true" />
+      <created>1727021833374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727021833374</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit я создал коммит и наблюдаю">
+      <option name="closed" value="true" />
+      <created>1727022275412</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727022275413</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit я создал коммит и наблюдаю">
+      <option name="closed" value="true" />
+      <created>1727024510467</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727024510467</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit я создал коммит и наблюдаю">
+      <option name="closed" value="true" />
+      <created>1727024743880</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727024743880</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit я создал коммит и наблюдаю">
+      <option name="closed" value="true" />
+      <created>1727376912962</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727376912962</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit я создал коммит и наблюдаю">
+      <option name="closed" value="true" />
+      <created>1727463439021</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727463439021</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit я создал коммит и наблюдаю">
+      <option name="closed" value="true" />
+      <created>1727463559566</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727463559566</updated>
+    </task>
+    <task id="LOCAL-00011" summary="изменение">
+      <option name="closed" value="true" />
+      <created>1727558062106</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727558062106</updated>
+    </task>
+    <task id="LOCAL-00012" summary="изменение">
+      <option name="closed" value="true" />
+      <created>1727560570117</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727560570117</updated>
+    </task>
+    <task id="LOCAL-00013" summary="изменение 2">
+      <option name="closed" value="true" />
+      <created>1727561251025</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727561251025</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit я создал коммит и наблюдаю" />
+    <MESSAGE value="изменение" />
+    <MESSAGE value="изменение 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="изменение 2" />
+  </component>
+</project>
