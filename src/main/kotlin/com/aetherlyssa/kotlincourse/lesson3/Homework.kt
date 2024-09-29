@@ -28,6 +28,12 @@ class Homework {
                                                                             //   или
     var sponsors: String = "Sulpak", "Kaspy", "Open Society Foundations"    //   Cписок спонсоров через строку, изменяемое, но через list есть arrayListOf() (глубоко не вникал)
 
+    var budget: Double = 100000.00                                          //   Бюджет мероприятия, числовое изменяемое
+
+    var internet: Boolean = true                        //   Статус интернета, не совсем понял что это такое, но скорее всего интернет или есть или его нет
+
+
+
 
 
 }
