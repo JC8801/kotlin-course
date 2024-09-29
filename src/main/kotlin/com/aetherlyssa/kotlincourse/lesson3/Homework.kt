@@ -39,9 +39,13 @@ class Homework {
 
     const val evacuationplan: String = "План эвакуации"  //   План эвакуации утвержден пожарной инспекцией задолго до хакатона, поэтому константа для события
 
-    private val hardware = listOf("device 1", "device 2", "device 3")               //   Cписок оборудования по запросу через лист
+    private val hardware = listOf("device 1", "device 2", "device 3")               //   Cписок оборудования по запросу через лист, постоянное строковое
                                                                                     //   или
-    val hardware: String = "device 1", "device 2", "device 3"                       //   Cписок оборудования через
+    val hardware: String = "device 1", "device 2", "device 3"                       //   Cписок оборудования через строку, постоянное строковое
+
+    var freehardware: String = "fdevice 1", "fdevice 2", "fdevice 3"                //   Cписок свободного оборудования через строку, изменяемое строковое
+
+
 
 }
 
