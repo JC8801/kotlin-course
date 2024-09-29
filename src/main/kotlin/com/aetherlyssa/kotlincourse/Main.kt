@@ -35,3 +35,4 @@ var fuel: Double = 0.00             // ничего не понятно, но о
         if (value > 0), field + value
     }
 
+
