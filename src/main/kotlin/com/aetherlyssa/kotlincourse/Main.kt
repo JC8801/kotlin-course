@@ -1,3 +1,5 @@
+package com.aetherlyssa.kotlincourse
+
 val name: String = "Yakov"          // постоянное значение
 
 var age: Int = 36                   // переменное значение
